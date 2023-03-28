@@ -26,7 +26,7 @@ The performance of each model was evaluated using accuracy, precision, and recal
 
 # Conclusion
 
-      * The goal of this project was to use Machine Learning Classification to predict credit card default, with a focus on getting a model which has achieved high accuracy.
+      * The goal of this project was to use Machine Learning Classification to predict credit card default with a focus on getting a model which has achieved high accuracy.
       * The confusion matrix was used to evaluate the performance of the models, with accuracy, precision and recall being the key metrics.
       * Logistic regression had the highest accuracy among the three models, but had room for improvement in precision and recall.
       * Naive Bayes had the highest recall, but low precision.
